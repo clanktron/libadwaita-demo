@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/org.castro.demo.desktop.in
+data/org.castro.demo.metainfo.xml.in
+data/org.castro.demo.gschema.xml
+src/main.c
+src/demo-app-window.c
+src/demo-app-window.ui

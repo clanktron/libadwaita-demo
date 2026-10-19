@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.castro.demo
+Exec=@bindir@/demo-app --gapplication-service

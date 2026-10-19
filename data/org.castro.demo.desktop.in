@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Demo-app
+Exec=demo-app
+Icon=org.castro.demo
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
